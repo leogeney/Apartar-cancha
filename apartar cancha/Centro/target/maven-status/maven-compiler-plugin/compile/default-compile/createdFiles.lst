@@ -1,0 +1,9 @@
+com\mycompany\centro\Canchas.class
+com\mycompany\centro\people\Deportista.class
+com\mycompany\centro\Centro.class
+com\mycompany\centro\people\Entrenador.class
+com\mycompany\centro\interfaces\Dopping.class
+com\mycompany\centro\people\type\TypeSport.class
+com\mycompany\centro\interfaces\dieta.class
+com\mycompany\centro\interfaces\informarse.class
+com\mycompany\centro\people\Person.class
